@@ -1,0 +1,55 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:\plugin" />
+        <option value="E:\\MyWebTest" />
+        <option value="E:\workspace1" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:\plugin" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:\plugin" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="D:\plugin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\coding\IntelliJ IDEA 15.0.3\bin" />
+              <option name="projectOpenTimestamp" value="1480814680355" />
+              <option name="buildTimestamp" value="1453132800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\\MyWebTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\coding\IntelliJ IDEA 15.0.3\bin" />
+              <option name="projectOpenTimestamp" value="1458821553408" />
+              <option name="buildTimestamp" value="1453132800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:\workspace1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-143.1821" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:\coding\IntelliJ IDEA 15.0.3\bin" />
+              <option name="projectOpenTimestamp" value="1453513946200" />
+              <option name="buildTimestamp" value="1453132800000" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/" />
+  </component>
+</application>

@@ -1,0 +1,312 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/coding/jdk_8/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/model/impl/ClassInfoImpl.class" timestamp="1480819976538" />
+      <file name="/a.regexp" timestamp="1480819552567">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" timestamp="1480781467158">
+        <mark key="'" line="48" column="0" />
+        <mark key="]" line="31" column="24" />
+        <mark key="^" line="31" column="24" />
+        <mark key="." line="31" column="24" />
+        <mark key="[" line="31" column="25" />
+      </file>
+      <file name="D:/plugin/font-awesome-4.4.0/css/font-awesome.css" timestamp="1480767899807">
+        <mark key="'" line="2025" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="11" column="2" />
+        <mark key="[" line="6" column="2" />
+      </file>
+      <file name="D:/plugin/font-awesome-4.4.0/css/font-awesome.min.css" timestamp="1480815626550">
+        <mark key="'" line="3" column="2433" />
+        <mark key="]" line="3" column="2433" />
+        <mark key="^" line="3" column="2432" />
+        <mark key="." line="3" column="2433" />
+        <mark key="[" line="3" column="2433" />
+      </file>
+      <file name="D:/plugin/src/web/fanhuan_webtest/PathPing.java" timestamp="1480815443726">
+        <mark key="'" line="55" column="0" />
+        <mark key="]" line="5" column="6" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="[" line="6" column="0" />
+      </file>
+      <file name="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" timestamp="1480820486892">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="^" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+        <mark key="[" line="164" column="1" />
+      </file>
+      <file name="/a.dummy" timestamp="1480819540066">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" timestamp="1480816949709">
+        <mark key="'" line="14" column="0" />
+        <mark key="]" line="2" column="3" />
+        <mark key="m" line="15" column="0" />
+        <mark key="^" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="[" line="2" column="3" />
+      </file>
+      <file name="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" timestamp="1480820689015">
+        <mark key="'" line="1227" column="0" />
+        <mark key="]" line="1204" column="75" />
+        <mark key="^" line="1204" column="75" />
+        <mark key="." line="1204" column="75" />
+        <mark key="[" line="1204" column="76" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="52" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="23" column="30" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="49" column="27" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="25" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="6" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="44" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="17" column="9" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="21" column="6" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="22" column="23" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="18" column="9" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="1" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="9" column="11" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="11" column="51" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="0" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="42" column="11" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="4" column="17" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="8" column="14" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="19" column="8" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="29" column="10" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="45" column="11" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="41" column="8" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="34" column="13" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="46" column="12" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="31" column="14" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="40" column="29" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="39" column="38" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="48" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx/index.html" />
+      <jump line="48" column="4" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="16" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="21" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="10" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="37" column="4" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="15" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="5" column="6" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="0" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="30" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="18" column="11" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="25" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="55" column="0" filename="D:/plugin/src/web/fanhuan_webtest/PathPing.java" />
+      <jump line="28" column="24" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="169" column="17" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="3" column="2433" filename="D:/plugin/font-awesome-4.4.0/css/font-awesome.min.css" />
+      <jump line="6" column="30" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="24" column="20" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="38" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="186" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="9" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="18" column="15" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="26" column="51" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="17" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="22" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="183" column="6" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="162" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="98" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="21" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="161" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="2" column="3" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="18" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="17" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="4" column="16" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="15" column="65" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="0" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="13" column="7" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="1" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="125" column="4" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="6" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="14" column="0" filename="D:/plugin/react-0.14.7/examples/basic-jsx-external/example.js" />
+      <jump line="27" column="83" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="182" column="5" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="65" column="19" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="12" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="157" column="8" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="173" column="14" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="1" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="20" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="184" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="19" column="37" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="2" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="155" column="25" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="14" column="3" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="3" column="54" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="165" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="163" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="185" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="0" column="0" filename="D:/plugin/src/web/fanhuan_webtest/api_Monitor.java" />
+      <jump line="438" column="14" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="1072" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="843" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="1194" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="0" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="10" column="1" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="3" column="26" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="1192" column="73" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="1205" column="44" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="4" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="27" column="52" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="1" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="1228" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="14" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+      <jump line="1227" column="0" filename="D:/plugin/Sublime Text Build 3095 x64/Data/Packages/Autoprefixer/node_modules/postcss/d.ts/postcss.d.ts" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>will</text>
+      </register>
+      <register name="b" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIGFwaV9Nb25pdG9yICAKeyAgCglzdGF0aWMgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlci5nZXRMb2dnZXIoYXBpX01vbml0b3IuY2xhc3MpOwogICAgLyoqIM2ouf1hcGm78cihsqKx6cD6t7W7ubXEy/nT0LXayP23vcG0vdMKICAgICAqIEBwYXJhbSBhcmdzIAogICAgICogQHRocm93cyBJT0V4Y2VwdGlvbiAgCg==</text>
+      </register>
+      <register name="a" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="126" code="0" mods="0" />
+          <key char="65535" code="91" mods="130" />
+        </keys>
+      </register>
+      <register name="/" type="4">
+        <text>DOM</text>
+      </register>
+      <register name="-" type="4">
+        <text>will</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgCVN0cmluZyBsaW5rVXJsID0gd2ViTGlzdC5nZXQoaSkudHJpbSgpOwogICAgICAgICAgICAJU3RyaW5nIGJ1c2luZXNzTmFtZSA9IGJ1c2luZXNzTmFtZUxpc3QuZ2V0KGkpOwogICAgICAgICAgICAJaWYoIWxpbmtVcmwuZXF1YWxzKCIkVXNlcklEIikpCiAgICAgICAgICAgIAl7CiAgICAgICAgICAgIAkJdHJ5ewogICAgICAgICAgICAJCQlTeXN0ZW0ub3V0LnByaW50bG4obGlua1VybCk7CiAgICAgICAgICAgIAkJCVN5c3RlbS5vdXQucHJpbnRsbihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIAkJCWlmKCFnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKS5lcXVhbHMoIkhUVFAvMS4xIDIwMCBPSyIpKQogICAgICAgICAgICAgICAgICAgIAl7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IoYnVzaW5lc3NOYW1lKTsKICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5lcnJvcihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IobGlua1VybCk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3Ioc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwovLyAgICAgICAgICAgICAgICAgICAgCQlnZXRSZXNwb25zZSgiaHR0cDovL3NlbmRtc2cuZmFuaHVhbi5jb20vcXh0X3Ntcy5hc2h4P2FwaT1zZW5kJm1uPTE4NTU5ODM5NjIyJmN0PSIrc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCWdldFJlc3BvbnNlKCJodHRwOi8vc2VuZG1zZy5mYW5odWFuLmNvbS9xeHRfc21zLmFzaHg/YXBpPXNlbmQmbW49MTg1NTk4Mzk2MjImY3Q9IitsaW5rVXJsKyK907/atO3O8yIpOwogICAgICAgICAgICAgICAgICAgIAkJZ2V0UmVzcG9uc2UoImh0dHA6Ly9zZW5kbXNnLmZhbmh1YW4uY29tL3F4dF9zbXMuYXNoeD9hcGk9c2VuZCZtbj0xODU1OTgzOTYyMiZjdD0iK2J1c2luZXNzTmFtZSsivdO/2rTtzvMiKTsKICAgICAgICAgICAgICAgICAgICAJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGxpbmtVcmwrIi9yIitnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSsiL3K907/a0uyzo9PQzvMiKTsKICAgICAgICAgICAgICAgICAgICAJfQogICAgICAgICAgICAJCX1jYXRjaChFeGNlcHRpb24gZSkKICAgICAgICAgICAgCQl7CiAgICAgICAgICAgIAkJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwogICAgICAgICAgICAJCQlsb2dnZXIuZXJyb3IoZ2V0VHJhY2UoZSkpOwogICAgICAgICAgICAJCQllLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAJCX0KCiAgICAgICAgICAgIAl9Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">CXN0YXRpYyBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyLmdldExvZ2dlcihhcGlfTW9uaXRvci5jbGFzcyk7Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">CXN0YXRpYyBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyLmdldExvZ2dlcihhcGlfTW9uaXRvci5jbGFzcyk7CiAgICAvKiogzai5/WFwabvxyKGyorHpwPq3tbu5tcTL+dPQtdrI/be9wbS90wogICAgICogQHBhcmFtIGFyZ3MKICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24KICAgICAqIEB0aHJvd3MgQ2xpZW50UHJvdG9jb2xFeGNlcHRpb24KICAgICAqLwogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oKSB0aHJvd3MgQ2xpZW50UHJvdG9jb2xFeGNlcHRpb24sIElPRXhjZXB0aW9uCiAgICB7CiAgICAJUGF0aFBpbmcucGF0aFBpbmcoImh0dHA6Ly9ndy5mYW5odWFuLmNvbS9mYW5odWFuL2Zhdm9yaXRlX21hbGxzIik7CgogICAgICAgIC8vIMSsyM+1xGNsaWVudMDgCiAgICAJQ2xvc2VhYmxlSHR0cENsaWVudCBodHRwY2xpZW50ID0gSHR0cENsaWVudHMuY3JlYXRlRGVmYXVsdCgpOwogICAgICAgIC8vSHR0cENsaWVudCBodHRwY2xpZW50ID0gbmV3IERlZmF1bHRIdHRwQ2xpZW50KCk7CiAgICAgICAgLy8gLy8gtLS9qGh0dHDH68fzKGdldLe9yr0pCiAgICAgICAgSHR0cEdldCBodHRwZ2V0cyA9IG5ldyBIdHRwR2V0KCJodHRwOi8vZ3cuZmFuaHVhbi5jb20vZmFuaHVhbi9mYXZvcml0ZV9tYWxscyIpOwogICAgICAgIC8vILXDtb23tbvYtcRyZXNwb25zZS4KICAgICAgICBDbG9zZWFibGVIdHRwUmVzcG9uc2UgcmVzcG9uc2UgPSBodHRwY2xpZW50LmV4ZWN1dGUoaHR0cGdldHMpOwogICAgICAgIC8vtcO1vbe1u9i1xGNsaWVudMDvw+a1xMq1zOW21M/z0MXPoi4KICAgICAgICBIdHRwRW50aXR5IGVudGl0eSA9IHJlc3BvbnNlLmdldEVudGl0eSgpOwogICAgICAgIGlmIChlbnRpdHkgIT0gbnVsbCkgewogICAgICAgIAkvLyC1w7W9t7W72LXE1vfM5cTayN0KICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW5zdHJlYW1zID0gZW50aXR5LmdldENvbnRlbnQoKTsKICAgICAgICAgICAgLy/Xqs6qc3RyaW5nCiAgICAgICAgICAgIFN0cmluZyBzdHIgPSBjb252ZXJ0U3RyZWFtVG9TdHJpbmcoaW5zdHJlYW1zKTsKICAgICAgICAgICAgLy/IobW9IHN0csDvw+YgIGtleTpMaW5rVXJsILXE1rW0zsr9CiAgICAgICAgICAgIGludCB0b3RhbEpzb25Db3VudCA9IGNvdW50KCJMaW5rVXJsIixzdHIpOwogICAgICAgICAgICBpbnQgb25saW5lQ291bnQgPSBjb3VudCgiXCJTdGF0dXNcIjoxIixzdHIpOwogICAgICAgICAgICBTdHJpbmcgW10gc3RyQXJyYXkgPSBzdHIuc3BsaXQoIlxcfSxcXHsiKTsKICAgICAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gd2ViTGlzdCA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgICAgICBBcnJheUxpc3Q8U3RyaW5nPiBidXNpbmVzc05hbWVMaXN0ID0gbmV3IEFycmF5TGlzdDxTdHJpbmc+KCk7CiAgICAgICAgICAgIGZvcihpbnQgaSA9MDtpPHRvdGFsSnNvbkNvdW50O2krKykKICAgICAgICAgICAgewogICAgICAgICAgICAJaWYoc3RyQXJyYXlbaV0uY29udGFpbnMoIlwiU3RhdHVzXCI6MSIpKQogICAgICAgICAgICAJewogICAgICAgICAgICAJCS8vyKHBrL3TCiAgICAgICAgICAgIAkJd2ViTGlzdC5hZGQoc3RyQXJyYXlbaV0uc3Vic3RyaW5nKHN0ckFycmF5W2ldLmluZGV4T2YoIkxpbmtVcmwiKSsxMCwgc3RyQXJyYXlbaV0uaW5kZXhPZigiU3RhdHVzIiktMykpOwoKICAgICAgICAgICAgCX0KICAgICAgICAgICAgfQogICAgICAgICAgICBmb3IoaW50IGkgPTA7aTx0b3RhbEpzb25Db3VudDtpKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgCWlmKHN0ckFycmF5W2ldLmNvbnRhaW5zKCJcIlN0YXR1c1wiOjEiKSkKICAgICAgICAgICAgCXsKCiAgICAgICAgICAgIAkJLy/IocP7s8YKICAgICAgICAgICAgCQlidXNpbmVzc05hbWVMaXN0LmFkZChzdHJBcnJheVtpXS5zdWJzdHJpbmcoc3RyQXJyYXlbaV0uaW5kZXhPZigiQnVzaW5lc3NOYW1lIikrMTUsIHN0ckFycmF5W2ldLmluZGV4T2YoIklkIiktMykpOwogICAgICAgICAgICAJfQogICAgICAgICAgICB9CiAgICAgICAgICAgIC8vtPLToc/g06bXtMysCiAgICAgICAgICAgIGZvcihpbnQgaSA9MDtpPG9ubGluZUNvdW50O2krKykKICAgICAgICAgICAgewogICAgICAgICAgICAJU3RyaW5nIGxpbmtVcmwgPSB3ZWJMaXN0LmdldChpKS50cmltKCk7CiAgICAgICAgICAgIAlTdHJpbmcgYnVzaW5lc3NOYW1lID0gYnVzaW5lc3NOYW1lTGlzdC5nZXQoaSk7CiAgICAgICAgICAgIAlpZighbGlua1VybC5lcXVhbHMoIiRVc2VySUQiKSkKICAgICAgICAgICAgCXsKICAgICAgICAgICAgCQl0cnl7CiAgICAgICAgICAgIAkJCVN5c3RlbS5vdXQucHJpbnRsbihsaW5rVXJsKTsKICAgICAgICAgICAgCQkJU3lzdGVtLm91dC5wcmludGxuKGdldFJlc3BvbnNlKGxpbmtVcmwpLmdldFN0YXR1c0xpbmUoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgCQkJaWYoIWdldFJlc3BvbnNlKGxpbmtVcmwpLmdldFN0YXR1c0xpbmUoKS50b1N0cmluZygpLmVxdWFscygiSFRUUC8xLjEgMjAwIE9LIikpCiAgICAgICAgICAgICAgICAgICAgCXsKICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5lcnJvcihidXNpbmVzc05hbWUpOwogICAgICAgICAgICAgICAgICAgIAkJbG9nZ2VyLmVycm9yKGdldFJlc3BvbnNlKGxpbmtVcmwpLmdldFN0YXR1c0xpbmUoKS50b1N0cmluZygpKTsKICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5lcnJvcihsaW5rVXJsKTsKICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5lcnJvcihzdHIpOwogICAgICAgICAgICAgICAgICAgIAkJUGF0aFBpbmcucGF0aFBpbmcobGlua1VybCk7Ci8vICAgICAgICAgICAgICAgICAgICAJCWdldFJlc3BvbnNlKCJodHRwOi8vc2VuZG1zZy5mYW5odWFuLmNvbS9xeHRfc21zLmFzaHg/YXBpPXNlbmQmbW49MTg1NTk4Mzk2MjImY3Q9IitzdHIpOwogICAgICAgICAgICAgICAgICAgIAkJZ2V0UmVzcG9uc2UoImh0dHA6Ly9zZW5kbXNnLmZhbmh1YW4uY29tL3F4dF9zbXMuYXNoeD9hcGk9c2VuZCZtbj0xODU1OTgzOTYyMiZjdD0iK2xpbmtVcmwrIr3Tv9q07c7zIik7CiAgICAgICAgICAgICAgICAgICAgCQlnZXRSZXNwb25zZSgiaHR0cDovL3NlbmRtc2cuZmFuaHVhbi5jb20vcXh0X3Ntcy5hc2h4P2FwaT1zZW5kJm1uPTE4NTU5ODM5NjIyJmN0PSIrYnVzaW5lc3NOYW1lKyK907/atO3O8yIpOwogICAgICAgICAgICAgICAgICAgIAkJdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24obGlua1VybCsiL3IiK2dldFJlc3BvbnNlKGxpbmtVcmwpLmdldFN0YXR1c0xpbmUoKS50b1N0cmluZygpKyIvcr3Tv9rS7LOj09DO8yIpOwogICAgICAgICAgICAgICAgICAgIAl9CiAgICAgICAgICAgIAkJfWNhdGNoKEV4Y2VwdGlvbiBlKQogICAgICAgICAgICAJCXsKICAgICAgICAgICAgCQkJUGF0aFBpbmcucGF0aFBpbmcobGlua1VybCk7CiAgICAgICAgICAgIAkJCWxvZ2dlci5lcnJvcihnZXRUcmFjZShlKSk7CiAgICAgICAgICAgIAkJCWUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIAkJfQoKICAgICAgICAgICAgCX0KCiAgICAgICAgICAgIH0KICAgICAgICAgICAgbG9nZ2VyLmluZm8oIsv509C907/a1f2zoyIpOwogICAgICAgICAgICAvLyBEbyBub3QgbmVlZCB0aGUgcmVzdAogICAgICAgICAgICBodHRwZ2V0cy5hYm9ydCgpOwogICAgICAgIH0KICAgIH0KCgogICAgLyoqCiAgICAgKiC8xsvj0ru49tfWt/u0rtTawe3Su7j219a3+7Su1tCz9s/WtcS0zsr9CiAgICAgKiBAcGFyYW0gc2hvcnRTdHJpbmcKICAgICAqIEBwYXJhbSBsb25nU3RyaW5nCiAgICAgKiBAcmV0dXJuCiAgICAgKi8KICAgIHB1YmxpYyBzdGF0aWMgaW50IGNvdW50KFN0cmluZyBzaG9ydFN0cmluZyxTdHJpbmcgbG9uZ1N0cmluZykKICAgIHsKICAgIAlpbnQgdG90YWwgPSAwOwogICAgCWZvciAoU3RyaW5nIHRtcCA9IGxvbmdTdHJpbmc7IHRtcCAhPSBudWxsJiZ0bXAubGVuZ3RoKCk+PXNob3J0U3RyaW5nLmxlbmd0aCgpOyl7CiAgICAJICBpZih0bXAuaW5kZXhPZihzaG9ydFN0cmluZykgPT0gMCl7CiAgICAJICAgIHRvdGFsICsrOwogICAgCSAgfQogICAgCSAgdG1wID0gdG1wLnN1YnN0cmluZygxKTsKICAgIAl9CiAgICAJcmV0dXJuIHRvdGFsOwogICAgfQoKCiAgICAvKioKICAgICAqIL2rRXhjZXB0aW9u16q7u7PJ19a3+7SuCiAgICAgKiBAcGFyYW0gdAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBnZXRUcmFjZShUaHJvd2FibGUgdCkKICAgIHsKICAgIAlTdHJpbmdXcml0ZXIgc3RyaW5nV3JpdGVyID0gbmV3IFN0cmluZ1dyaXRlcigpOwogICAgCVByaW50V3JpdGVyIHdyaXRlcj0gbmV3IFByaW50V3JpdGVyKHN0cmluZ1dyaXRlcik7CiAgICAgICAgdC5wcmludFN0YWNrVHJhY2Uod3JpdGVyKTsKICAgICAgICBTdHJpbmdCdWZmZXIgYnVmZmVyPSBzdHJpbmdXcml0ZXIuZ2V0QnVmZmVyKCk7CiAgICAgICAgcmV0dXJuIGJ1ZmZlci50b1N0cmluZygpOwogICAgfQoKICAgIC8qKgogICAgICogZ2V0t723qLe1u9i1xHJlc3BvbnNlCiAgICAgKiBAcGFyYW0gd2Vic2l0ZQogICAgICogQHJldHVybgogICAgICogQHRocm93cyBDbGllbnRQcm90b2NvbEV4Y2VwdGlvbgogICAgICogQHRocm93cyBJT0V4Y2VwdGlvbgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIENsb3NlYWJsZUh0dHBSZXNwb25zZSBnZXRSZXNwb25zZShTdHJpbmcgd2Vic2l0ZSkgIHRocm93cyBDbGllbnRQcm90b2NvbEV4Y2VwdGlvbiwgSU9FeGNlcHRpb24KICAgIHsKICAgIAlDbG9zZWFibGVIdHRwQ2xpZW50IGh0dHBjbGllbnQgPSBIdHRwQ2xpZW50cy5jcmVhdGVEZWZhdWx0KCk7CiAgICAJSHR0cEdldCBodHRwZ2V0cyA9IG5ldyBIdHRwR2V0KHdlYnNpdGUpOwogICAgICAgIENsb3NlYWJsZUh0dHBSZXNwb25zZSByZXNwb25zZSA9IGh0dHBjbGllbnQuZXhlY3V0ZShodHRwZ2V0cyk7ICAgCiAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwogICAgfQogICAgLyoqCiAgICAgKiDK5LP2wfe1vc7EvP4KICAgICAqIEB0aHJvd3MgSU9FeGNlcHRpb24KICAgICAqLwoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBJTzJGaWxlICgpIHRocm93cyBJT0V4Y2VwdGlvbgogICAgewogICAgICAgIEZpbGUgZj1uZXcgRmlsZSgib3V0LnR4dCIpOwogICAgICAgIGYuY3JlYXRlTmV3RmlsZSgpOwogICAgICAgIEZpbGVPdXRwdXRTdHJlYW0gZmlsZU91dHB1dFN0cmVhbSA9IG5ldyBGaWxlT3V0cHV0U3RyZWFtKGYpOwogICAgICAgIFByaW50U3RyZWFtIHByaW50U3RyZWFtID0gbmV3IFByaW50U3RyZWFtKGZpbGVPdXRwdXRTdHJlYW0pOwogICAgICAgIFN5c3RlbS5zZXRPdXQocHJpbnRTdHJlYW0pOwogICAgfQoKCiAgICBwdWJsaWMgc3RhdGljIFN0cmluZyBjb252ZXJ0U3RyZWFtVG9TdHJpbmcoSW5wdXRTdHJlYW0gaXMpIHsKICAgICAgICBCdWZmZXJlZFJlYWRlciByZWFkZXIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKGlzKSk7CiAgICAgICAgU3RyaW5nQnVpbGRlciBzYiA9IG5ldyBTdHJpbmdCdWlsZGVyKCk7CgogICAgICAgIFN0cmluZyBsaW5lID0gbnVsbDsKICAgICAgICB0cnkgewogICAgICAgICAgICB3aGlsZSAoKGxpbmUgPSByZWFkZXIucmVhZExpbmUoKSkgIT0gbnVsbCkgewogICAgICAgICAgICAJU3lzdGVtLm91dC5wcmludGxuKGxpbmUpOwogICAgICAgICAgICAgICAgc2IuYXBwZW5kKGxpbmUgKyAiXG4iKTsKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggKElPRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgaXMuY2xvc2UoKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzYi50b1N0cmluZygpKTsKICAgICAgICByZXR1cm4gc2IudG9TdHJpbmcoKTsKICAgIH0K</text>
+      </register>
+      <register name="0" type="4">
+        <text>ClientProtocolException</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgICAJLy8gtcO1vbe1u9i1xNb3zOXE2sjdCiAgICAgICAgICAgIElucHV0U3RyZWFtIGluc3RyZWFtcyA9IGVudGl0eS5nZXRDb250ZW50KCk7CiAgICAgICAgICAgIC8v16rOqnN0cmluZwogICAgICAgICAgICBTdHJpbmcgc3RyID0gY29udmVydFN0cmVhbVRvU3RyaW5nKGluc3RyZWFtcyk7CiAgICAgICAgICAgIC8vyKG1vSBzdHLA78PmICBrZXk6TGlua1VybCC1xNa1tM7K/QogICAgICAgICAgICBpbnQgdG90YWxKc29uQ291bnQgPSBjb3VudCgiTGlua1VybCIsc3RyKTsKICAgICAgICAgICAgaW50IG9ubGluZUNvdW50ID0gY291bnQoIlwiU3RhdHVzXCI6MSIsc3RyKTsKICAgICAgICAgICAgU3RyaW5nIFtdIHN0ckFycmF5ID0gc3RyLnNwbGl0KCJcXH0sXFx7Iik7CiAgICAgICAgICAgIEFycmF5TGlzdDxTdHJpbmc+IHdlYkxpc3QgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKTsKICAgICAgICAgICAgQXJyYXlMaXN0PFN0cmluZz4gYnVzaW5lc3NOYW1lTGlzdCA9IG5ldyBBcnJheUxpc3Q8U3RyaW5nPigpOwogICAgICAgICAgICBmb3IoaW50IGkgPTA7aTx0b3RhbEpzb25Db3VudDtpKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgCWlmKHN0ckFycmF5W2ldLmNvbnRhaW5zKCJcIlN0YXR1c1wiOjEiKSkKICAgICAgICAgICAgCXsKICAgICAgICAgICAgCQkvL8ihway90wogICAgICAgICAgICAJCXdlYkxpc3QuYWRkKHN0ckFycmF5W2ldLnN1YnN0cmluZyhzdHJBcnJheVtpXS5pbmRleE9mKCJMaW5rVXJsIikrMTAsIHN0ckFycmF5W2ldLmluZGV4T2YoIlN0YXR1cyIpLTMpKTsKCiAgICAgICAgICAgIAl9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgZm9yKGludCBpID0wO2k8dG90YWxKc29uQ291bnQ7aSsrKQogICAgICAgICAgICB7CiAgICAgICAgICAgIAlpZihzdHJBcnJheVtpXS5jb250YWlucygiXCJTdGF0dXNcIjoxIikpCiAgICAgICAgICAgIAl7CgogICAgICAgICAgICAJCS8vyKHD+7PGCiAgICAgICAgICAgIAkJYnVzaW5lc3NOYW1lTGlzdC5hZGQoc3RyQXJyYXlbaV0uc3Vic3RyaW5nKHN0ckFycmF5W2ldLmluZGV4T2YoIkJ1c2luZXNzTmFtZSIpKzE1LCBzdHJBcnJheVtpXS5pbmRleE9mKCJJZCIpLTMpKTsKICAgICAgICAgICAgCX0KICAgICAgICAgICAgfQogICAgICAgICAgICAvL7Ty06HP4NOm17TMrAogICAgICAgICAgICBmb3IoaW50IGkgPTA7aTxvbmxpbmVDb3VudDtpKyspCiAgICAgICAgICAgIHsKICAgICAgICAgICAgCVN0cmluZyBsaW5rVXJsID0gd2ViTGlzdC5nZXQoaSkudHJpbSgpOwogICAgICAgICAgICAJU3RyaW5nIGJ1c2luZXNzTmFtZSA9IGJ1c2luZXNzTmFtZUxpc3QuZ2V0KGkpOwogICAgICAgICAgICAJaWYoIWxpbmtVcmwuZXF1YWxzKCIkVXNlcklEIikpCiAgICAgICAgICAgIAl7CiAgICAgICAgICAgIAkJdHJ5ewogICAgICAgICAgICAJCQlTeXN0ZW0ub3V0LnByaW50bG4obGlua1VybCk7CiAgICAgICAgICAgIAkJCVN5c3RlbS5vdXQucHJpbnRsbihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIAkJCWlmKCFnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKS5lcXVhbHMoIkhUVFAvMS4xIDIwMCBPSyIpKQogICAgICAgICAgICAgICAgICAgIAl7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IoYnVzaW5lc3NOYW1lKTsKICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5lcnJvcihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IobGlua1VybCk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3Ioc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwovLyAgICAgICAgICAgICAgICAgICAgCQlnZXRSZXNwb25zZSgiaHR0cDovL3NlbmRtc2cuZmFuaHVhbi5jb20vcXh0X3Ntcy5hc2h4P2FwaT1zZW5kJm1uPTE4NTU5ODM5NjIyJmN0PSIrc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCWdldFJlc3BvbnNlKCJodHRwOi8vc2VuZG1zZy5mYW5odWFuLmNvbS9xeHRfc21zLmFzaHg/YXBpPXNlbmQmbW49MTg1NTk4Mzk2MjImY3Q9IitsaW5rVXJsKyK907/atO3O8yIpOwogICAgICAgICAgICAgICAgICAgIAkJZ2V0UmVzcG9uc2UoImh0dHA6Ly9zZW5kbXNnLmZhbmh1YW4uY29tL3F4dF9zbXMuYXNoeD9hcGk9c2VuZCZtbj0xODU1OTgzOTYyMiZjdD0iK2J1c2luZXNzTmFtZSsivdO/2rTtzvMiKTsKICAgICAgICAgICAgICAgICAgICAJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGxpbmtVcmwrIi9yIitnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSsiL3K907/a0uyzo9PQzvMiKTsKICAgICAgICAgICAgICAgICAgICAJfQogICAgICAgICAgICAJCX1jYXRjaChFeGNlcHRpb24gZSkKICAgICAgICAgICAgCQl7CiAgICAgICAgICAgIAkJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwogICAgICAgICAgICAJCQlsb2dnZXIuZXJyb3IoZ2V0VHJhY2UoZSkpOwogICAgICAgICAgICAJCQllLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAJCX0KCiAgICAgICAgICAgIAl9CgogICAgICAgICAgICB9CiAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLL+dPQvdO/2tX9s6MiKTsKICAgICAgICAgICAgLy8gRG8gbm90IG5lZWQgdGhlIHJlc3QKICAgICAgICAgICAgaHR0cGdldHMuYWJvcnQoKTs=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgCVN0cmluZyBsaW5rVXJsID0gd2ViTGlzdC5nZXQoaSkudHJpbSgpOwogICAgICAgICAgICAJU3RyaW5nIGJ1c2luZXNzTmFtZSA9IGJ1c2luZXNzTmFtZUxpc3QuZ2V0KGkpOwogICAgICAgICAgICAJaWYoIWxpbmtVcmwuZXF1YWxzKCIkVXNlcklEIikpCiAgICAgICAgICAgIAl7CiAgICAgICAgICAgIAkJdHJ5ewogICAgICAgICAgICAJCQlTeXN0ZW0ub3V0LnByaW50bG4obGlua1VybCk7CiAgICAgICAgICAgIAkJCVN5c3RlbS5vdXQucHJpbnRsbihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIAkJCWlmKCFnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKS5lcXVhbHMoIkhUVFAvMS4xIDIwMCBPSyIpKQogICAgICAgICAgICAgICAgICAgIAl7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IoYnVzaW5lc3NOYW1lKTsKICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5lcnJvcihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IobGlua1VybCk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3Ioc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwovLyAgICAgICAgICAgICAgICAgICAgCQlnZXRSZXNwb25zZSgiaHR0cDovL3NlbmRtc2cuZmFuaHVhbi5jb20vcXh0X3Ntcy5hc2h4P2FwaT1zZW5kJm1uPTE4NTU5ODM5NjIyJmN0PSIrc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCWdldFJlc3BvbnNlKCJodHRwOi8vc2VuZG1zZy5mYW5odWFuLmNvbS9xeHRfc21zLmFzaHg/YXBpPXNlbmQmbW49MTg1NTk4Mzk2MjImY3Q9IitsaW5rVXJsKyK907/atO3O8yIpOwogICAgICAgICAgICAgICAgICAgIAkJZ2V0UmVzcG9uc2UoImh0dHA6Ly9zZW5kbXNnLmZhbmh1YW4uY29tL3F4dF9zbXMuYXNoeD9hcGk9c2VuZCZtbj0xODU1OTgzOTYyMiZjdD0iK2J1c2luZXNzTmFtZSsivdO/2rTtzvMiKTsKICAgICAgICAgICAgICAgICAgICAJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGxpbmtVcmwrIi9yIitnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSsiL3K907/a0uyzo9PQzvMiKTsKICAgICAgICAgICAgICAgICAgICAJfQogICAgICAgICAgICAJCX1jYXRjaChFeGNlcHRpb24gZSkKICAgICAgICAgICAgCQl7CiAgICAgICAgICAgIAkJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwogICAgICAgICAgICAJCQlsb2dnZXIuZXJyb3IoZ2V0VHJhY2UoZSkpOwogICAgICAgICAgICAJCQllLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAJCX0KCiAgICAgICAgICAgIAl9Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgCVN0cmluZyBsaW5rVXJsID0gd2ViTGlzdC5nZXQoaSkudHJpbSgpOwogICAgICAgICAgICAJU3RyaW5nIGJ1c2luZXNzTmFtZSA9IGJ1c2luZXNzTmFtZUxpc3QuZ2V0KGkpOwogICAgICAgICAgICAJaWYoIWxpbmtVcmwuZXF1YWxzKCIkVXNlcklEIikpCiAgICAgICAgICAgIAl7CiAgICAgICAgICAgIAkJdHJ5ewogICAgICAgICAgICAJCQlTeXN0ZW0ub3V0LnByaW50bG4obGlua1VybCk7CiAgICAgICAgICAgIAkJCVN5c3RlbS5vdXQucHJpbnRsbihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgIAkJCWlmKCFnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKS5lcXVhbHMoIkhUVFAvMS4xIDIwMCBPSyIpKQogICAgICAgICAgICAgICAgICAgIAl7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IoYnVzaW5lc3NOYW1lKTsKICAgICAgICAgICAgICAgICAgICAJCWxvZ2dlci5lcnJvcihnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3IobGlua1VybCk7CiAgICAgICAgICAgICAgICAgICAgCQlsb2dnZXIuZXJyb3Ioc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwovLyAgICAgICAgICAgICAgICAgICAgCQlnZXRSZXNwb25zZSgiaHR0cDovL3NlbmRtc2cuZmFuaHVhbi5jb20vcXh0X3Ntcy5hc2h4P2FwaT1zZW5kJm1uPTE4NTU5ODM5NjIyJmN0PSIrc3RyKTsKICAgICAgICAgICAgICAgICAgICAJCWdldFJlc3BvbnNlKCJodHRwOi8vc2VuZG1zZy5mYW5odWFuLmNvbS9xeHRfc21zLmFzaHg/YXBpPXNlbmQmbW49MTg1NTk4Mzk2MjImY3Q9IitsaW5rVXJsKyK907/atO3O8yIpOwogICAgICAgICAgICAgICAgICAgIAkJZ2V0UmVzcG9uc2UoImh0dHA6Ly9zZW5kbXNnLmZhbmh1YW4uY29tL3F4dF9zbXMuYXNoeD9hcGk9c2VuZCZtbj0xODU1OTgzOTYyMiZjdD0iK2J1c2luZXNzTmFtZSsivdO/2rTtzvMiKTsKICAgICAgICAgICAgICAgICAgICAJCXRocm93IG5ldyBSdW50aW1lRXhjZXB0aW9uKGxpbmtVcmwrIi9yIitnZXRSZXNwb25zZShsaW5rVXJsKS5nZXRTdGF0dXNMaW5lKCkudG9TdHJpbmcoKSsiL3K907/a0uyzo9PQzvMiKTsKICAgICAgICAgICAgICAgICAgICAJfQogICAgICAgICAgICAJCX1jYXRjaChFeGNlcHRpb24gZSkKICAgICAgICAgICAgCQl7CiAgICAgICAgICAgIAkJCVBhdGhQaW5nLnBhdGhQaW5nKGxpbmtVcmwpOwogICAgICAgICAgICAJCQlsb2dnZXIuZXJyb3IoZ2V0VHJhY2UoZSkpOwogICAgICAgICAgICAJCQllLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAJCX0KCiAgICAgICAgICAgIAl9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>set nu</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>DOM</last-search>
+      <last-offset />
+      <last-pattern>DOM</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>aaaa</entry>
+        <entry>getTim</entry>
+        <entry>st</entry>
+        <entry>ex</entry>
+        <entry>Re</entry>
+        <entry>Ex</entry>
+        <entry>Reac</entry>
+        <entry>Exam</entry>
+        <entry>React</entry>
+        <entry>elap</entry>
+        <entry>Math</entry>
+        <entry>Cli</entry>
+        <entry>Dom</entry>
+        <entry>DOM</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set so 5</entry>
+        <entry>set so=5</entry>
+        <entry>regs</entry>
+        <entry>reg b</entry>
+        <entry>reg a</entry>
+        <entry>w</entry>
+        <entry>let i=1</entry>
+        <entry>let i = 1</entry>
+        <entry>echo i</entry>
+        <entry>edit</entry>
+        <entry>set nu</entry>
+        <entry>jumps</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed 2</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
